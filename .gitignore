@@ -1,5 +1,10 @@
 # Adding config.py file
 config.py
+Weather_Database/config1.py
+Vacation_Search/config2.py
+Vacation_Itinerary/config3.py
+API_Practice.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
