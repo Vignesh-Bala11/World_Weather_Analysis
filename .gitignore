@@ -4,7 +4,10 @@ Weather_Database/config1.py
 Vacation_Search/config2.py
 Vacation_Itinerary/config3.py
 API_Practice.ipynb
+<<<<<<< HEAD
 
+=======
+>>>>>>> 72b36d94b66d78f988a9a7e10562d2d6843966ed
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
